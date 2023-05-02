@@ -1,0 +1,5 @@
+com\nopcommerce\browserfactory\ManageBrowser.class
+com\nopcommerce\pages\HomePage.class
+com\nopcommerce\propertyreader\PropertyReader.class
+com\nopcommerce\utilities\Utility.class
+com\nopcommerce\pages\LoginPage.class
